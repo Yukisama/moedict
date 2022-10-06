@@ -1,7 +1,7 @@
 # moedict
 Convert the MOE common dictionaries to simple formats
 
-source data and license files: https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html
+source data and license files: 教育部國語辭典公眾授權網 https://language.moe.gov.tw/001/Upload/Files/site_content/M0001/respub/index.html
 
 ---
 
@@ -27,7 +27,7 @@ Other License
 
 ---
 
-No License
+No License (Already removed from MOE dictionary collection)
 
 /yzms 《臺灣原住民族事典》https://aborgpedia.alcd.center/
 
