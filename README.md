@@ -32,3 +32,15 @@ No License (Already removed from MOE dictionary collection)
 /yzms 《臺灣原住民族事典》https://aborgpedia.alcd.center/
 
 /yzmy 《原住民族語言線上辭典》https://e-dictionary.ilrdf.org.tw/
+
+---
+
+Requirements (tools for Chinese characters)
+
+Unicode Character Code  https://unicode.org/
+
+CMEX中推會  https://www.cmex.org.tw/
+
+CNS11643全字庫  https://www.cns11643.gov.tw/
+
+WFG全宋體  https://fgwang.blogspot.com/
