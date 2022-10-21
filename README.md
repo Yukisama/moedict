@@ -35,9 +35,15 @@ No License (Already removed from MOE dictionary collection)
 
 ---
 
-Requirements (tools for Chinese characters)
+Tools for data demo
 
-Unicode Character Code  https://unicode.org/
+Tiddlywiki  https://tiddlywiki.com/
+
+---
+
+Tools for Chinese characters
+
+Unicode  https://unicode.org/
 
 CMEX中推會  https://www.cmex.org.tw/
 
