@@ -1,0 +1,66 @@
+@font-face {font-family: FS-m;src: local(FSung-M), url("fonts/FS-m.woff2");unicode-range: U+0-FFFF;}
+@font-face {font-family: FS-1;src: local(FSung-1), url("fonts/FS-1.woff2");unicode-range: U+10000-1FFFF;}
+@font-face {font-family: FS-2;src: local(FSung-2), url("fonts/FS-2.woff2");unicode-range: U+20000-2FFFF;}
+@font-face {font-family: FS-3;src: local(FSung-3), url("fonts/FS-3.woff2");unicode-range: U+30000-3FFFF;}
+@font-face {font-family: FS-f;src: local(FSung-F), url("fonts/FS-f.woff2");unicode-range: U+F0000-FFFFF;}
+@font-face {font-family: FS-x;src: local(FSung-X), url("fonts/FS-x.woff2");unicode-range: U+100000-10FFFF;}
+
+div.educyd { margin: 1rem 0; font-family:FS-m,FS-1,FS-2,FS-3,FS-f,FS-x; }
+div.educyd .index {font-size:2rem;}
+div.educyd .catmain {color:#FFFFFF;background-color:#FF0000;display:inline-block;margin:0.1rem; padding:0.1rem;border-radius:0.2rem;}
+div.educyd .catsub {color:#FFFFFF;background-color:#663300;display:inline-block;margin:0.1rem; padding:0.1rem;border-radius:0.2rem;}
+div.educyd .alias {color:#0000FF;}
+div.educyd .radical {color:#666666;}
+div.educyd .bopomo {color:#66AA66;}
+div.educyd .hanyu {color:#FF6699;}
+div.educyd .refwords {color:#000000;}
+div.educyd .synon {color:#0099CC;}
+div.educyd .anton {color:#AA6666;}
+
+div.educyd .article {color:#000000;}
+div.educyd .article .artibook {color:#000000;}
+div.educyd .artisource {color:#000000;}
+div.educyd .artistory {color:#000000;}
+div.educyd .artiuse {color:#000000;}
+div.educyd .artidiff {color:#000000;}
+div.educyd .artiref {color:#000000;}
+
+div.educyd .content {display:inline-block; margin-left:1rem;margin-bottom:1rem;line-break: anywhere;}
+div.educyd .content .posp { color:#FFFFFF;background-color:#FF0000;display:inline-block;margin:0.5rem 0 0 0; padding:0.1rem 0.5rem;border-radius:0.2rem;}
+div.educyd .content .item { background-color:#66CC99;display:inline-block; margin:0.1rem; padding:0.1rem; border-radius:0.5rem; }
+div.educyd .content .subitem {color:#66CC99;display:inline-block; margin:0.1rem; padding:0.1rem; border-radius:0.5rem; }
+div.educyd .content .pron { color:#663300;background-color:#FFCCAA;display:inline-block;margin:0.5rem 0;padding:0.5rem;}
+div.educyd .content .accent {color:#0000FF;}
+div.educyd .content img {height:1.1rem;} 
+div.educyd .content .mean { color:#000000;}
+div.educyd .content .artibook {color:#000000;}
+div.educyd .content .sourcename {color:#0000FF;}
+div.educyd .content .sourcetext {color:#0000FF;}
+div.educyd .content .sourcetext .sidetext {color:#000000;}
+div.educyd .content .sourcetext .annotext:hover {color:#0099CC;text-decoration: underline;}
+div.educyd .content .sourcetext .annotext sub {color:#66AA66;}
+div.educyd .content .anno {color:#FFFFFF;background-color:#66AA66;display:inline-block;margin:0.25rem 0;padding:0.1rem 0.25rem; border-radius:0.2rem;}
+div.educyd .content .sourcetag {color:#FFFFFF;background-color:#663300;display:inline-block;margin:0.1rem; padding:0.1rem;border-radius:0.2rem;}
+div.educyd .content .symboltag {color:#FFFFFF;background-color:#663300;display:inline-block;margin:0.1rem; padding:0.1rem;border-radius:0.2rem;}
+div.educyd .content .refarticle {color:#000000;}
+div.educyd .content .refarticle .pron {margin:0.5rem 0;padding:0.125rem;}
+div.educyd .content .refarticle .posp {display:none;}
+div.educyd .content .refarticle .posp + br {display:none;}
+
+div.educyd table {border: 1px black solid;}
+div.educyd table th {border: 1px black solid; text-align:center; background-color: yellow;}
+div.educyd table tr td {border: 1px black solid;text-align:center;}
+div.educyd table tr td span.var { font-size: 2rem; }
+div.educyd table tr td span.varcode { color:red; font-size: 1rem; }
+div.educyd table tr td span.orth { font-size: 2rem; }
+div.educyd table tr td span.orthcode { color:red; font-size: 1rem; }
+div.educyd table.fix_picfont img.userfont {height:6rem;}
+div.educyd table.fix_picfont span.fixed {font-size:4rem;}
+div.educyd table.fix_userfont img.userfont {height:6rem;}
+div.educyd table.fix_userfont span.fixed {font-size:4rem;}
+
+div.educyd div.dictstory { font-style:bold;}
+div.educyd div.dictstory .title { color:#663300;background-color:#FFCCAA;display:inline-block;margin:0.5rem 0;padding:0.5rem;}
+div.educyd table.aliaslist {color:#000000; text-align:left;}
+div.educyd table.varcharlist tr td:nth-child(4) {color:#000000; text-align:left;}
+div.educyd table.spindexlist {color:#000000;}

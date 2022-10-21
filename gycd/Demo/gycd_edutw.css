@@ -1,0 +1,42 @@
+@font-face {font-family: FS-m;src: local("FSung-M"), url("fonts/FS-m.woff2");unicode-range: U+0-FFFF;}
+@font-face {font-family: FS-1;src: local("FSung-1"), url("fonts/FS-1.woff2");unicode-range: U+10000-1FFFF;}
+@font-face {font-family: FS-2;src: local("FSung-2"), url("fonts/FS-2.woff2");unicode-range: U+20000-2FFFF;}
+@font-face {font-family: FS-3;src: local("FSung-3"), url("fonts/FS-3.woff2");unicode-range: U+30000-3FFFF;}
+@font-face {font-family: FS-f;src: local("FSung-F"), url("fonts/FS-f.woff2");unicode-range: U+F0000-FFFFF;}
+@font-face {font-family: FS-x;src: local("FSung-X"), url("fonts/FS-x.woff2");unicode-range: U+100000-10FFFF;}
+
+div.edugycd { margin: 1rem 0; font-family:FS-m,FS-1,FS-2,FS-3,FS-f,FS-x; }
+div.edugycd .index {font-size:2rem;}
+div.edugycd .alias {color:#0000FF;}
+div.edugycd .radical {color:#666666;}
+div.edugycd .bopomo {color:#66AA66;}
+div.edugycd .hanyu {color:#FF6699;}
+div.edugycd .synon {color:#0099CC;}
+div.edugycd .anton {color:#AA6666;}
+div.edugycd .article {color:#000000;}
+div.edugycd .article .posp { color:#FFFFFF;background-color:#FF0000;display:inline-block;margin:0.5rem 0 0 0; padding:0.1rem 0.5rem;border-radius:0.2rem;}
+div.edugycd .article .item { background-color:#66CC99;display:inline-block; margin:0.1rem; padding:0.1rem; border-radius:0.5rem; }
+div.edugycd .article .subitem {color:#66CC99;display:inline-block; margin:0.1rem; padding:0.1rem; border-radius:0.5rem; }
+div.edugycd .article .pron { color:#663300;background-color:#FFCCAA;display:inline-block;margin:0.5rem 0;padding:0.5rem;}
+div.edugycd .article .accent {color:#0000FF;}
+div.edugycd .article .mean {color:#000000;}
+div.edugycd .article .hlacc {color:#0000FF;display:inline-block;margin:0.5rem 0;padding:0.5rem; }
+div.edugycd .article img {height:1.1rem;} 
+
+div.edugycd table {border: 1px black solid;}
+div.edugycd table th {border: 1px black solid; text-align:center; background-color: yellow;}
+div.edugycd table tr td {border: 1px black solid;text-align:center;}
+div.edugycd table tr td span.var { font-size: 2rem; }
+div.edugycd table tr td span.varcode { color:red; font-size: 1rem; }
+div.edugycd table tr td span.orth { font-size: 2rem; }
+div.edugycd table tr td span.orthcode { color:red; font-size: 1rem; }
+div.edugycd table.fix_picfont img.userfont {height:6rem;}
+div.edugycd table.fix_picfont span.fixed {font-size:4rem;}
+div.edugycd table.fix_userfont img.userfont {height:6rem;}
+div.edugycd table.fix_userfont span.fixed {font-size:4rem;}
+
+div.edugycd div.dictstory { font-style:bold;}
+div.edugycd div.dictstory .title { color:#663300;background-color:#FFCCAA;display:inline-block;margin:0.5rem 0;padding:0.5rem;}
+div.edugycd table.aliaslist {color:#000000; text-align:left;}
+div.edugycd table.varcharlist tr td:nth-child(4) {color:#000000; text-align:left;}
+div.edugycd table.spindexlist {color:#000000;}
