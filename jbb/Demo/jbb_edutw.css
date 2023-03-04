@@ -1,6 +1,6 @@
-@font-face {font-family: FS-m;src: local(FSung-M), url("fonts/FS-m.woff2");unicode-range: U+0-FFFF;}
+@font-face {font-family: FS-0;src: local("FSung-P"), url("fonts/FS-0.woff2");unicode-range: U+0-FFFF;}
 
-div.edujbb { margin: 1rem 0; font-family:FS-m; }
+div.edujbb { margin: 1rem 0; font-family:FS-0; }
 div.edujbb .index {font-size:2rem;}
 div.edujbb .radical {color:#666666;}
 div.edujbb .bopomo {color:#66AA66;}
@@ -8,7 +8,7 @@ div.edujbb .hanyu {color:#FF6699;}
 div.edujbb .synon {color:#0099CC;}
 div.edujbb .anton {color:#AA6666;}
 div.edujbb .article {color:#000000;}
-div.edujbb .article .posp { color:#FFFFFFbackground-color:#FF0000;display:inline-block;margin:0.5rem 0 0 0;padding:0.1rem 0.5rem;border-radius:0.2rem; }
+div.edujbb .article .posp { color:#FFFFFF;background-color:#FF0000;display:inline-block;margin:0.5rem 0 0 0;padding:0.1rem 0.5rem;border-radius:0.2rem; }
 div.edujbb .article .item { background-color:#66CC99;display:inline-block; margin:0.1rem; padding:0.1rem; border-radius:0.5rem; }
 div.edujbb .article .subitem { color:#66CC99;display:inline-block; margin:0.1rem; padding:0.1rem; border-radius:0.5rem; }
 div.edujbb .article .pron { color:#663300;background-color:#FFCCAA;display:inline-block;margin:0.5rem 0;padding:0.5rem;}
@@ -20,6 +20,7 @@ div.edujbb .article .fl {color:#FFFFFF;background-color:#0000FF;display:inline-b
 div.edujbb .article .es {color:#FFFFFF;background-color:#FF0000;display:inline-block;margin:0.1rem; padding:0.1rem;border-radius:0.2rem;}
 div.edujbb .article .as {color:#FFFFFF;background-color:#0000FF;display:inline-block;margin:0.1rem; padding:0.1rem;border-radius:0.2rem;}
 div.edujbb .article .ad {color:#FFFFFF;background-color:#999900;display:inline-block;margin:0.1rem; padding:0.1rem;border-radius:0.2rem;}
+div.edujbb .article .im {color:#FFFFFF;background-color:#009999;display:inline-block;margin:0.1rem; padding:0.1rem;border-radius:0.2rem;}
 div.edujbb .article .pic {max-width:80%;}
 div.edujbb .article .auth {color:#000000;}
 
