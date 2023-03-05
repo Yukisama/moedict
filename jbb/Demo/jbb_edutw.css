@@ -6,7 +6,9 @@ div.edujbb .radical {color:#666666;}
 div.edujbb .bopomo {color:#66AA66;}
 div.edujbb .hanyu {color:#FF6699;}
 div.edujbb .synon {color:#0099CC;}
+div.edujbb .synon .item { background-color:#66CC99;display:inline-block; margin:0.1rem; padding:0.1rem; border-radius:0.5rem; }
 div.edujbb .anton {color:#AA6666;}
+div.edujbb .anton .item { background-color:#66CC99;display:inline-block; margin:0.1rem; padding:0.1rem; border-radius:0.5rem; }
 div.edujbb .article {color:#000000;}
 div.edujbb .article .posp { color:#FFFFFF;background-color:#FF0000;display:inline-block;margin:0.5rem 0 0 0;padding:0.1rem 0.5rem;border-radius:0.2rem; }
 div.edujbb .article .item { background-color:#66CC99;display:inline-block; margin:0.1rem; padding:0.1rem; border-radius:0.5rem; }
