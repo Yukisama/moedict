@@ -1,0 +1,15 @@
+@font-face {font-family: FS-0;src: local("FSung-P"),url("fonts/FS-0.woff2"); unicode-range: U+0-FFFF;}
+@font-face {font-family: FS-1;src: local("FSung-1"),url("fonts/FS-1.woff2"); unicode-range: U+10000-1FFFF;}
+@font-face {font-family: FS-2;src: local("FSung-2"),url("fonts/FS-2.woff2"); unicode-range: U+20000-2FFFF;}
+@font-face {font-family: FS-3;src: local("FSung-3"),url("fonts/FS-3.woff2"); unicode-range: U+30000-3FFFF;}
+@font-face {font-family: FS-f;src: local("FSung-F"),url("fonts/FS-f.woff2"); unicode-range: U+F0000-FFFFF;}
+@font-face {font-family: FS-x;src: local("FSung-X"),url("fonts/FS-x.woff2"); unicode-range: U+100000-10FFFF;}
+
+body { margin: 1rem 0; font-family:FS-0,FS-1,FS-2,FS-3,FS-f,FS-x; }
+
+.tc-body table {width: 100%; text-align: center; font-size:1rem;}
+.tc-body table tr>td:nth-child(1) {font-size: 1.5rem;}
+.tc-body table img {height: 4rem;min-width: 4rem;}
+.tc-body table tr>td:nth-child(4) {font-size: 4rem;}
+.tc-body table tr>td:nth-child(5) {font-size: 1.5rem;}
+.tc-body table tr>td:nth-child(6) {text-align: left;}
