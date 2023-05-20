@@ -9,7 +9,7 @@ body { margin: 1rem 0; font-family:FS-0,FS-1,FS-2,FS-3,FS-f,FS-x; }
 
 .tc-body table {width: 100%; text-align: center; font-size:1rem;}
 .tc-body table tr>td:nth-child(1) {font-size: 1.5rem;}
-.tc-body table img {height: 4rem;min-width: 4rem;}
+.tc-body table img {height: 4rem;min-width: 4rem;min-height: 4rem;}
 .tc-body table tr>td:nth-child(4) {font-size: 4rem;}
 .tc-body table tr>td:nth-child(5) {font-size: 1.5rem;}
 .tc-body table tr>td:nth-child(6) {text-align: left;}

@@ -27,15 +27,21 @@ Other License
 
 /ytzd 《教育部異體字字典》 [https://dict.variants.moe.edu.tw/](https://dict.variants.moe.edu.tw/)
 
-/mnycd《教育部臺灣閩南語常用詞辭典》 [https://twblg.dict.edu.tw/](https://twblg.dict.edu.tw/)
+/mnycd 《教育部臺灣閩南語常用詞辭典》 [https://twblg.dict.edu.tw/](https://twblg.dict.edu.tw/)
 
-/kjycd《教育部臺灣客家語常用詞辭典》 [https://hakkadict.moe.edu.tw/](https://hakkadict.moe.edu.tw/)
+/kjycd 《教育部臺灣客家語常用詞辭典》 [https://hakkadict.moe.edu.tw/](https://hakkadict.moe.edu.tw/)
+
+/stroke 《國字標準字體筆順學習網》 [https://stroke-order.learningweb.moe.edu.tw/](https://stroke-order.learningweb.moe.edu.tw/)
+
+---
+
+No License
 
 /yzms 《臺灣原住民族事典》 [https://aborgpedia.alcd.center/](https://aborgpedia.alcd.center/)
 
 ---
 
-No License (Already removed from MOE dictionary collection)
+Already removed from MOE dictionary collection
 
 /yzmy 《原住民族語言線上辭典》 [https://e-dictionary.ilrdf.org.tw/](https://e-dictionary.ilrdf.org.tw/)
 
@@ -54,5 +60,7 @@ Unicode  [https://unicode.org/](https://unicode.org/)
 CMEX中推會  [https://www.cmex.org.tw/](https://www.cmex.org.tw/)
 
 CNS11643全字庫  [https://www.cns11643.gov.tw/](https://www.cns11643.gov.tw/)
+
+CBETA中華電子佛典  [https://www.cbeta.org/](https://www.cbeta.org/)
 
 WFG全宋體  [https://fgwang.blogspot.com/](https://fgwang.blogspot.com/)
