@@ -1,9 +1,9 @@
-@font-face {font-family: TK-0;src: local("TW-Kai"),url("fonts/TK-0.woff2"); unicode-range: U+000000-00FFFF;}
-@font-face {font-family: TK-2;src: local("TW-Kai-Ext-B"),url("fonts/TK-2.woff2"); unicode-range: U+020000-02FFFF;}
-@font-face {font-family: TK-f;src: local("TW-Kai-Plus"),url("fonts/TK-f.woff2"); unicode-range: U+0F0000-0FFFFF;}
-@font-face {font-family: TS-0;src: local("TW-Sung"),url("fonts/TS-0.woff2"); unicode-range: U+000000-00FFFF;}
-@font-face {font-family: TS-2;src: local("TW-Sung-Ext-B"),url("fonts/TS-2.woff2"); unicode-range: U+020000-02FFFF;}
-@font-face {font-family: TS-f;src: local("TW-Sung-Plus"),url("fonts/TS-f.woff2"); unicode-range: U+0F0000-0FFFFF;}
+@font-face {font-family: TK-0;src: local("TW-Kai"),url("fonts/TK-0.woff2"); unicode-range: U+0-FFFF;}
+@font-face {font-family: TK-2;src: local("TW-Kai-Ext-B"),url("fonts/TK-2.woff2"); unicode-range: U+20000-2FFFF;}
+@font-face {font-family: TK-f;src: local("TW-Kai-Plus"),url("fonts/TK-f.woff2"); unicode-range: U+F0000-FFFFF;}
+@font-face {font-family: TS-0;src: local("TW-Sung"),url("fonts/TS-0.woff2"); unicode-range: U+0-FFFF;}
+@font-face {font-family: TS-2;src: local("TW-Sung-Ext-B"),url("fonts/TS-2.woff2"); unicode-range: U+20000-2FFFF;}
+@font-face {font-family: TS-f;src: local("TW-Sung-Plus"),url("fonts/TS-f.woff2"); unicode-range: U+F0000-FFFFF;}
 @font-face {font-family: FS-0;src: local("FSung-P"),url("fonts/FS-0.woff2"); unicode-range: U+0-FFFF;}
 @font-face {font-family: FS-1;src: local("FSung-1"),url("fonts/FS-1.woff2"); unicode-range: U+10000-1FFFF;}
 @font-face {font-family: FS-2;src: local("FSung-2"),url("fonts/FS-2.woff2"); unicode-range: U+20000-2FFFF;}
