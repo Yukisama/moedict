@@ -1,2 +1,0 @@
-1
-<link rel="stylesheet" href="xzd_edutw.css" />

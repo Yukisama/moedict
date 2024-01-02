@@ -1,20 +1,36 @@
-@font-face {font-family: TB;src: local(BopomofoRuby1909-v1), url("fonts/bpmf.woff2");unicode-range: U+02B0-02FF,U+3100-312F;}
-@font-face {font-family: TK;src: local(全字庫正楷體), url("fonts/twkai.woff2");unicode-range: U+0-02AF,U+0300-30FF,U+3130-FFFF;}
-@font-face {font-family: TK-e;src: local(全字庫正楷體 Ext-B), url("fonts/twkaiex.woff2");unicode-range: U+10000-2FFFF;}
+@font-face{font-family:"BPMF";src:local("BopomofoRuby1909-v1-Regular"),url("fonts/bpmf.woff2") format("woff2");}
+@font-face{font-family:"LOVF";src:local("LessonOneVF"),url("fonts/lovf.woff2") format("woff2");}
+@font-face{font-family:"FS-0";src:local("FSung-p"),url("fonts/FS-0.woff2") format("woff2");unicode-range:U+0-FFFF;}
+@font-face{font-family:"FS-2";src:local("FSung-2"),url("fonts/FS-2.woff2") format("woff2");unicode-range:U+20000-2FFFF;}
+@font-face{font-family:"TK";src:local("全字庫正楷體"),url("fonts/twkai.woff2") format("woff2");unicode-range:U+0-FFFF;}
+@font-face{font-family:"TK-e";src:local("全字庫正楷體 Ext-B"),url("fonts/twkaiex.woff2");unicode-range:U+10000-2FFFF;}
 
-div.eduxzd { margin: 1rem 0; font-family:TB,TK,TK-e;}
+div.eduxzd {position:relative;margin:1rem 0;font-family:"FS-0","FS-2";}
 div.eduxzd .index {font-size:2rem;}
 div.eduxzd .radical {color:#666666;}
-div.eduxzd .bopomo {color:#66AA66;}
-div.eduxzd .hanyu {color:#FF6699;}
-div.eduxzd .article {color:#000000;}
-div.eduxzd .article .posp {color:#FFFFFF;background-color:#FF0000;display:inline-block;margin:0.5rem 0 0 0;padding:0.1rem 0.5rem;border-radius:0.2rem; }
-div.eduxzd .article .item {background-color:#66CC99;display:inline-block; margin:0.1rem; padding:0.1rem; border-radius:0.5rem; }
-div.eduxzd .article .subitem {color:#66CC99;display:inline-block; margin:0.1rem; padding:0.1rem; border-radius:0.5rem; }
-div.eduxzd .article .pron {color:#663300;background-color:#FFCCAA;display:inline-block;margin:0.5rem 0;padding:0.5rem;}
-div.eduxzd .article .mean {color:#000000;}
-div.eduxzd .article ruby {font-size: 1.5rem;}
-div.eduxzd .article ruby rt {font-family: TB;font-size: 30%;text-align: center;writing-mode: vertical-rl;text-orientation: upright;display: inline-block;vertical-align: middle;padding-right: 0.5rem;margin-top: -0.5rem;white-space: nowrap;}
+div.eduxzd .bopomo {color:#66AA66;font-family:"BPMF";}
+div.eduxzd .hanyu {color:#FF6699;font-family:"LOVF";}
+div.eduxzd .article {color:inherit;}
+div.eduxzd .article .posp {color:#FFFFFF;background-color:#FF0000;display:inline-block;margin:0.5rem 0 0 0;padding:0.1rem 0.5rem;border-radius:0.2rem;}
+div.eduxzd .article .item {background-color:#66CC99;display:inline-block;margin:0.1rem;padding:0.1rem;border-radius:0.5rem;}
+div.eduxzd .article .subitem {color:#66CC99;display:inline-block;margin:0.1rem;padding:0.1rem;border-radius:0.5rem;}
+div.eduxzd .article .pron {color:#663300;background-color:#FFCCAA;display:inline-block;margin:0.5rem 0;padding:0.5rem;font-family:"BPMF","FS-0","FS-2";}
+div.eduxzd .article .mean {color:inherit;}
+div.eduxzd .article rt {display:none;user-select:none;}
 
-div.eduxzd div.dictstory { font-style:bold;}
-div.eduxzd div.dictstory .title { color:#663300;background-color:#FFCCAA;display:inline-block;margin:0.5rem 0;padding:0.5rem;}
+div.eduxzd div.dictstory {font-style:bold;}
+div.eduxzd div.dictstory .title {color:#663300;background-color:#FFCCAA;display:inline-block;margin:0.5rem 0;padding:0.5rem;}
+
+div.eduxzd .eduxzdbtns {position:absolute;top:0;right:0;}
+div.eduxzd .eduxzdbtns label{padding:0.25rem;color:#0000FF;background-color:#FFFFFF;border:#0000FF solid 1px;cursor:pointer;}
+div.eduxzd .xzdrdo {display:none;}
+#xzdrdo1:checked~div .article {font-size:1rem;font-family:"FS-0","FS-2";}
+#xzdrdo1:checked~div .article rt{display:none;user-select:none;}
+#xzdrdo2:checked~div .article {font-size:1.6rem;font-family:"TK","TK-e";}
+#xzdrdo2:checked~div .article rt {display:inline-block;font-size:0.6rem;text-align:center;writing-mode:vertical-rl;text-orientation:upright;vertical-align:middle;padding-right:.5rem;margin-top:-.25rem;white-space:nowrap;user-select:none;font-family:"BPMF";}
+#xzdrdo2:checked~div .article rt span.b {margin: 0;;}
+#xzdrdo2:checked~div .article rt span.p {display:none;}
+#xzdrdo3:checked~div .article {font-size:1.6rem;font-family:"TK","TK-e";}
+#xzdrdo3:checked~div .article rt {display:block;font-size:0.6rem;text-align:center;user-select:none;font-family:"LOVF";}
+#xzdrdo3:checked~div .article rt span.b {display:none;}
+#xzdrdo3:checked~div .article rt span.p{margin: 0;}
