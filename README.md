@@ -41,15 +41,13 @@ Other License
 
 /ytzd 《教育部異體字字典》 [https://dict.variants.moe.edu.tw/](https://dict.variants.moe.edu.tw/)
 
----
-
-No License
-
-/yzms 《臺灣原住民族事典》 [https://aborgpedia.alcd.center/](https://aborgpedia.alcd.center/)
+/kh6 《教育部新編客家語六腔辭典》 [https://newhakkadict.moe.edu.tw/](https://newhakkadict.moe.edu.tw/)
 
 ---
 
 Already removed from MOE dictionary collection
+
+/yzms 《臺灣原住民族事典》 [https://aborgpedia.alcd.center/](https://aborgpedia.alcd.center/)
 
 /yzmy 《原住民族語言線上辭典》 [https://e-dictionary.ilrdf.org.tw/](https://e-dictionary.ilrdf.org.tw/)
 
@@ -70,5 +68,7 @@ CMEX中推會  [https://www.cmex.org.tw/](https://www.cmex.org.tw/)
 CNS11643全字庫  [https://www.cns11643.gov.tw/](https://www.cns11643.gov.tw/)
 
 CBETA中華電子佛典  [https://www.cbeta.org/](https://www.cbeta.org/)
+
+字嗨  [https://zi-hi.com/](https://zi-hi.com/)
 
 WFG全宋體  [https://fgwang.blogspot.com/](https://fgwang.blogspot.com/)
