@@ -21,7 +21,7 @@ CC BY-ND 3.0 TW License
 
 /cyd 《教育部成語典》 [https://dict.idioms.moe.edu.tw/](https://dict.idioms.moe.edu.tw/)
 
-/kjycd 《教育部臺灣客家語常用詞辭典》 [https://hakkadict.moe.edu.tw/](https://hakkadict.moe.edu.tw/)
+/kjycd 《教育部臺灣客語辭典》 [https://hakkadict.moe.edu.tw/](https://hakkadict.moe.edu.tw/)
 
 ---
 
@@ -40,8 +40,6 @@ CC BY-NC-ND 2.5 TW License
 Other License
 
 /ytzd 《教育部異體字字典》 [https://dict.variants.moe.edu.tw/](https://dict.variants.moe.edu.tw/)
-
-/kh6 《教育部新編客家語六腔辭典》 [https://newhakkadict.moe.edu.tw/](https://newhakkadict.moe.edu.tw/)
 
 ---
 
