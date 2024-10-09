@@ -21,7 +21,7 @@ CC BY-ND 3.0 TW License
 
 /cyd 《教育部成語典》 [https://dict.idioms.moe.edu.tw/](https://dict.idioms.moe.edu.tw/)
 
-/kjycd 《教育部臺灣客語辭典》 [https://hakkadict.moe.edu.tw/](https://hakkadict.moe.edu.tw/)
+/kyd 《教育部臺灣客語辭典》 [https://hakkadict.moe.edu.tw/](https://hakkadict.moe.edu.tw/)
 
 ---
 
@@ -33,7 +33,7 @@ CC BY-NC-ND 3.0 TW License
 
 CC BY-NC-ND 2.5 TW License
 
-/mnycd 《教育部臺灣閩南語常用詞辭典》 [https://sutian.moe.edu.tw/](https://sutian.moe.edu.tw/)
+/tyd 《教育部臺灣台語常用詞辭典》 [https://sutian.moe.edu.tw/](https://sutian.moe.edu.tw/)
 
 ---
 
